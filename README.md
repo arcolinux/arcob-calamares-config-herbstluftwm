@@ -1,0 +1,2 @@
+# ArcoLinuxB-Herbstluftwm Calamares configuration
+
