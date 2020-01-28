@@ -87,6 +87,7 @@
   packages:
     - atom
     - code
+    - geany
     - geany-plugins
     - kdevelop
 - name: "Fonts"
@@ -121,6 +122,7 @@
     - gpick
     - inkscape
     - krita
+    - nitrogen
     - nomacs
     - pinta
     - ristretto
